@@ -123,6 +123,7 @@
   * Faculty can create general announcements and all the other users will be able to view that announcement
   * This feature acts as a global announcement portal
   ========================================================================================================
+
 **Student:** 
   * Students can view the announcements posted by faculty
   
